@@ -6,6 +6,8 @@ The aim of the sudo is to simulate life cycle of a human beginning from his chil
 ## Team Members
 Milendra Pratap Singh
 
+
+
 ## Instructions to run
 If openGL is installed on the system (If not google and install it first), just compile and run the game. Otherwise, to install freeGlut (inplace for openGL) in linux, 
 run following command: 
